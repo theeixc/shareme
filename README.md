@@ -4,7 +4,7 @@
 
 ## Introduction
 
-本项目为巩固 react 基础知识。主要使用了 React，Tailwind 和 sanity。
+本项目为巩固 react 基础知识。主要使用了 React，Tailwind Css 和 sanity。
 
 项目教程来自于：https://www.youtube.com/@javascriptmastery
 
