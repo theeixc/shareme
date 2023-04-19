@@ -12,5 +12,5 @@
 
 前端通过 `netlify`部署，地址：https://shareme-theei.netlify.app/
 
-
+![主页](https://github.com/theeixc/shareme/blob/main/frontend/src/assets/share-me-home.png)
 
